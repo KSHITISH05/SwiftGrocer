@@ -1,6 +1,6 @@
-# SwiftGrocer: Your Full-Stack Grocery Delivery Platform 🥕🛒
+# GreenCart: Your Full-Stack Grocery Delivery Platform 🥕🛒
 
-SwiftGrocer is a fully functional e-commerce grocery delivery website built with the MERN (MongoDB, Express.js, React, Node.js) stack. This project provides a complete online shopping experience for users and a robust management dashboard for sellers, designed for seamless product browsing, secure ordering, and efficient order/product management. The application is designed to be deployed for free, making it live and accessible to everyone.
+GreenCart is a fully functional e-commerce grocery delivery website built with the MERN (MongoDB, Express.js, React, Node.js) stack. This project provides a complete online shopping experience for users and a robust management dashboard for sellers, designed for seamless product browsing, secure ordering, and efficient order/product management. The application is designed to be deployed for free, making it live and accessible to everyone.
 
 ---
 
@@ -68,11 +68,11 @@ SwiftGrocer is a fully functional e-commerce grocery delivery website built with
 #### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd SwiftGrocer
+cd GreenCart
 ```
 
 #### 2. Backend Setup
-- Open the `SwiftGrocer` root folder in your editor.
+- Open the `GreenCart` root folder in your editor.
 - **MongoDB Setup:**
   - Create a free cluster on MongoDB Atlas.
   - Create a database user (avoid @ or # in the password).
@@ -147,8 +147,3 @@ This project can be deployed for free using Vercel.
 - Push changes to GitHub to trigger redeploy.
 
 ---
-
-## ❓ Support & More Projects
-- For issues, contact the expert on [Instagram](https://instagram.com/greatstackdev).
-- More projects and source code: [greatstack.dev/source-code](https://greatstack.dev/source-code)
-- For in-depth tutorials, see the video description or project links.
